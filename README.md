@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am formed on Trybe Course, it is a online course with focus on web development front and back-end, with focus on working with knowledges: JavaScript | TypeScript | HTML | CSS | React | Node | MySQL | Express | Sequelize | MongoDB | Mongoose
+I am formed on Trybe Course, it is a online course of web development front and back-end, with focus on working with knowledges: JavaScript | TypeScript | HTML | CSS | React | Node | MySQL | Express | Sequelize | MongoDB | Mongoose
 
 * 🌍  I'm based in Natal, RN in Brasil.
 * 🖥️  See my portfolio at [GitHub- th.maia](http://github.com/th-maia)
